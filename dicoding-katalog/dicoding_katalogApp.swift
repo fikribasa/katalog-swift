@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct dicoding_katalogApp: App {
+struct DicodingKatalogApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
